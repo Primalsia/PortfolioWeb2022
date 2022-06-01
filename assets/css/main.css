@@ -3085,7 +3085,8 @@ input, select, textarea {
 		}
 
 		#header.alt {
-			padding: 7em 5em 4em 5em ;
+			padding: 4em 5em 0 5em ;
+			height: 400px;
 		}
 
 			#header.alt h1 {
@@ -3120,7 +3121,7 @@ input, select, textarea {
 				#header.alt .logo img {
 					display: block;
 					margin: 0 auto;
-					max-width: 25%;
+					max-width: 100px;
 				}
 
 		@media screen and (max-width: 1280px) {
@@ -3586,6 +3587,7 @@ input, select, textarea {
 
 			#main > .main:first-child {
 				border-top: 0;
+				max-height: 1000px;
 			}
 
 			#main > .main > .image.main:first-child {
