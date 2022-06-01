@@ -14,8 +14,13 @@ I resized my header logo so when displayed on mobile devices it wouldn't be too 
 I had fun tinkering with the template and adding my own personal touch to it. I also heavily used console 
 <br>
 
-Credits:
-	
+## Other Projects:
+**One Piece Character Selector:** <a href="https://github.com/Primalsia/One-Piece-Character-Selector">One Piece Character Selector Repo</a><br>
+**Got Cocktail?:** <a href="https://github.com/Primalsia/GotCocktail.github.io">Got Cocktail? Repo</a><br>
+**Pacific Trails Resort:** <a href="https://github.com/Primalsia/ptresort.github.io">Pacific Trails Resort Repo</a><br>
+
+## Credits:
+
 	Stellar by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
