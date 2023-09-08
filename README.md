@@ -1,4 +1,4 @@
-# My Portfolio | <a href="https://primalsia.github.io/GotCocktail.github.io/">Demo</a>
+# My Portfolio | <a href="https://aziahblanding.netlify.app/">Demo</a>
 
 ![portfolio_Trim_Moment](https://user-images.githubusercontent.com/93306237/171480792-9ee6808b-3200-4baf-b974-434758e6119f.jpg)
 
